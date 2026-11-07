@@ -1,0 +1,6 @@
+{
+  "threshold": 0.2688887270064362,
+  "model": "StandardScaler + LogisticRegression",
+  "selection": "model predeclared; threshold maximizes validation F1",
+  "random_state": 42
+}
