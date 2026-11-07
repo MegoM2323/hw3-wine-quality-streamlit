@@ -33,9 +33,9 @@ CSV с пропущенными, лишними или повторяющими�
 
 Документация: [cache_resource](https://docs.streamlit.io/develop/api-reference/caching-and-state/st.cache_resource), [cache_data](https://docs.streamlit.io/develop/api-reference/caching-and-state/st.cache_data).
 
-## Границы выполнения
+## Опубликованная версия
 
-Решение предназначено для локального запуска. Публикация в Streamlit Community Cloud из пункта 4.6 исходного задания не выполнялась.
+Опубликованное приложение: [https://megom2323-hw3-wine.streamlit.app](https://megom2323-hw3-wine.streamlit.app). Исходники приложения: [GitHub](https://github.com/MegoM2323/hw3-wine-quality-streamlit) (7 файлов в `wine_app/`; ноутбук передаётся в полном архиве). Публичная страница открыта без авторизации; четыре вкладки, метрики и прогноз проверены.
 
 ## Проверки и публикация
 
